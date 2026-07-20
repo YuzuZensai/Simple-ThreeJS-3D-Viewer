@@ -1,4 +1,4 @@
-# 🐣 Simple Three.js 3D Viewer
+# 🐣 Simple-ThreeJS-3D-Viewer
 
 A simple web-based 3D viewer built with Three.js and an Express server.
 
@@ -21,4 +21,5 @@ npm install
 ```
 
 ## License
+
 MIT
